@@ -6,4 +6,4 @@ declare global {
 }
 
 export default swal;
-export as namespace swal;
+// export as namespace swal;
